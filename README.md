@@ -10,9 +10,9 @@ The model introduces an **Explainable Adaptive Layer (EAL)** that dynamically le
 
 ## Authors
 
-Havva Zimra
-Ayshath Sahada
-Rameeza Hazara
+Havva Zimra,
+Ayshath Sahada,
+Rameeza Hazara,
 Ms Nausheeda BS
 
 PG Department of SIST
